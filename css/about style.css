@@ -1,0 +1,12 @@
+body{
+  background-color:#BE8A62;
+text-align: center;
+}
+img {
+  border-radius: 60%;
+  margin-right: auto;
+}
+text{
+  border-style: solid;
+  border-color: white;
+}

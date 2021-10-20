@@ -1,0 +1,9 @@
+*{
+  background-color: #BE8A62;
+  text-align: center;
+}
+text{
+  box-sizing: border-box;
+  border-style: solid;
+  border-color: white;
+}
